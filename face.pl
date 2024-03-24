@@ -18,7 +18,7 @@
 # perl Imad'Ox-Bruter.pl Facebooklogin@facebook.com wordlist.lst
 #
 # --- Imad'Ox-Bruter Facebook password cracking tool
-# --- By Imad'Ox Hunter. Pl  https://www.facebook.com/profile.php?id=61557383727741
+# --- By Imad'Ox Hunter. Pl facebook.com/profile.php?id=61557383727741
 # --- www.facebook.com/imad.elouajib
 #
 # [+] Cracking Facebooklogin@facebook.com ...
